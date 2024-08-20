@@ -126,7 +126,7 @@
 
 ###
 
-<img align="right" height="140" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="140" src="https://github.com/LuciferDiot/LuciferDiot/blob/main/public/cartoon-629.gif"  />
 
 ###
 
