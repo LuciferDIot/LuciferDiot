@@ -5,6 +5,7 @@
 <h3 align="center">Software Engineer🌟.</h3>
 
 ###
+
 <br clear="both">
 
 <h2 align="left">💻 About Me :</h2>
@@ -22,6 +23,7 @@
 - ⚡ Fun fact **Debugging code is like sex—when it’s good, it’s great; when it’s bad, at least you’re still doing it!**
 
 ###
+
 <br clear="both">
 
 <h2 align="left">📊 Github Stats :</h2>
@@ -39,6 +41,7 @@
 </div>
 
 ###
+
 <br clear="both">
 
 <h2 align="left">🛠️ Tech Stack :</h2>
@@ -116,13 +119,14 @@
 </div>
 
 ###
+
 <br clear="both">
 
 <h2 align="left">🤝 Connect With Me :</h2>
 
 ###
 
-<img align="right" height="140" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="140" src="https://github.com/LuciferDiot/LuciferDiot/blob/main/public/cartoon-629.gif"  />
 
 ###
 
