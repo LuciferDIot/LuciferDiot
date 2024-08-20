@@ -33,8 +33,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LuciferDIot&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=LuciferDIot&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=LuciferDIot&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuciferDIot&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuciferDIot&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="164" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=LuciferDIot&theme=dracula&column=4&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuciferDIot&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false&custom_title=Daily%20Contribution" height="245" alt="activity-graph graph"  />
