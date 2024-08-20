@@ -126,7 +126,7 @@
 
 ###
 
-<div align="right" class="tenor-gif-embed" data-postid="6443382694537491165" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cyberkongz-kongz-cyberkongz-vx-vx-typing-gif-6443382694537491165">Cyberkongz Cyberkongz Vx Sticker</a>from <a href="https://tenor.com/search/cyberkongz-stickers">Cyberkongz Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" height="140" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
