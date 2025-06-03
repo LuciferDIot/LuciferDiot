@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **AWS, AI and threejs**
 
-- 👀 Want to see what I've built? [https://geedev.vercel.app/](https://geedev.vercel.app/)
+- 👀 Want to see what I've built? [https://pasindugeevinda.com/](https://geedev.vercel.app/)
 
 - 💬 Ask me about **react, nextjs, java and ML**
 
 - 📫 How to reach me **pasindu.geevind@gmail.com**
 
-- 📄 Know about my experiences [https://geedev.vercel.app/about](https://geedev.vercel.app/about)
+- 📄 Know about my experiences [https://pasindugeevinda.com/about](https://geedev.vercel.app/about)
 
 - ⚡ Fun fact **Debugging code is like sex—when it’s good, it’s great; when it’s bad, at least you’re still doing it!**
 
